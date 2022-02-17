@@ -1,11 +1,5 @@
 ### Hi there, I'm Duy Kha 👋
 
-- 🔭 I’m currently working on ...HCMUS
-- 🌱 I’m currently learning ... machine learning
-- 👯 I’m looking to collaborate on ...HCMUS
-- 🤔 I’m looking for help with ...HCMUS
-- 💬 Ask me about ...HCMUS
-- 📫 How to reach me: ...HCMUS
-- 😄 Pronouns: ...HCMUS
-- ⚡ Fun fact: ...HCMUS
--->HCMUS
+- 🔭 I’m currently studying at HCMUS
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me: duykha0205@gmail.com
