@@ -1,5 +1,4 @@
 ### Hi there, I'm Duy Kha 👋
 
-- 🔭 I’m currently studying at HCMUS
-- 🌱 I’m currently learning machine learning
+- Website: https://duykha0205.github.io/duykhaa.github.io/
 - 📫 How to reach me: duykha0205@gmail.com
